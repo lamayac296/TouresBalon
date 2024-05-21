@@ -1,0 +1,16 @@
+<archimate:InfluenceRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="-"
+    id="id-f518d42edccb4857abbfabe69f6ac575"
+    strength="-">
+  <properties
+      key="Impacto"
+      value="--"/>
+  <source
+      xsi:type="archimate:Resource"
+      href="Resource_id-a12547cbf57f4e9baea246a31ee33119.xml#id-a12547cbf57f4e9baea246a31ee33119"/>
+  <target
+      xsi:type="archimate:Value"
+      href="Value_id-12ba1034e16d4b699e8c84e775bd2366.xml#id-12ba1034e16d4b699e8c84e775bd2366"/>
+</archimate:InfluenceRelationship>
