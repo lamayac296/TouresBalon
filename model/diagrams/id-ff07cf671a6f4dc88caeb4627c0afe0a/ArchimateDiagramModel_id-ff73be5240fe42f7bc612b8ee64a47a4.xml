@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Vista de funciones"
+    name="Vista de Comportamiento"
     id="id-ff73be5240fe42f7bc612b8ee64a47a4">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
