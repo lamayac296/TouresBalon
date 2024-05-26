@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Model de Servicios"
+    name="Modelo de Servicios"
     id="id-ddf189852b8b49adba77742a5e9ffc0b">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -331,9 +331,9 @@
         source="id-e6a11d6e4be047bfbdb5d0733c4a33c1"
         target="id-2df09291729440e9859df18ee7a1a243">
       <bendpoints
-          startX="-15"
+          startX="-3"
           startY="-174"
-          endX="-324"
+          endX="-312"
           endY="-3"/>
       <archimateRelationship
           xsi:type="archimate:RealizationRelationship"
